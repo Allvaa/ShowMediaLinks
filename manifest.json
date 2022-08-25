@@ -1,6 +1,6 @@
 {
     "name": "ShowMediaLinks",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Show link for media that sent by a link (not attachments)",
     "author": "ephemeral#5338",
     "license": "MIT"
